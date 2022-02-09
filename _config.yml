@@ -67,15 +67,15 @@ lessons:
     gh-name: git-novice
     type: episode
     branch: gh-pages
-    date: 9 January 2022
-    start-time: 8:30 am
+    date: 17 February 2022
+    start-time: 12:30 pm
     
   - title: Managing Academic Software Development
     gh-name: project-novice
     type: episode
     branch: gh-pages
-    date: 10 January 2022
-    start-time: 9:30 am
+    date: 24 February 2022
+    start-time: 12:30 pm
 
 
 
