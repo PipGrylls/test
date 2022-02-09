@@ -75,3 +75,17 @@ $ git clone https://github.com/Southampton-RSG/swc-git-novice
 `cd` will move to your home directory, and `git clone` will download a copy of the materials.
 
 {% include links.md %}
+
+### Managing Academic Software Development
+
+#### Project Managment Setup 
+
+
+
+Before we get started, there are a few requirements to meet. You will need:
+
+* [A GitHub account](https://github.com), with ssh key access.
+* A GitHub repository titled `climate-analysis`
+* A code editor (we recommend [Visual Studio Code](https://code.visualstudio.com/))
+
+If you do not have a `climate-analysis` repository, you can create an empty one now. No specific contents are required for this lesson.
