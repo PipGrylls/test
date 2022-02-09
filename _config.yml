@@ -58,13 +58,6 @@ lessons:
   #    date: 14 January 2022
   #    start-time: 15:00
 
-  #  - title: Managing Academic Software Development
-  #    gh-name: project-novice
-  #    type: episode
-  #    branch: gh-pages
-  #    date: 10 January 2022
-  #    start-time: 9:30 am
-
   #  - title: Automating Tasks with the Unix Shell  # Lesson title
   #    org-name: Southampton-RSG-Training           # Name of the GitHub organisation (or individual) the lesson is in defaults to Southampton-RSG-Training
   #    gh-name: shell-novice                        # Name of the GitHub repository for the lesson at https://github:com/{org-name}:
@@ -79,6 +72,13 @@ lessons:
     branch: gh-pages
     date: 9 January 2022
     start-time: 8:30 am
+    
+  - title: Managing Academic Software Development
+    gh-name: project-novice
+    type: episode
+    branch: gh-pages
+    date: 10 January 2022
+    start-time: 9:30 am
 
 
 
