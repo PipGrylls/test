@@ -18,7 +18,7 @@ title: "MINDS Software Carpentry Workshop"
 # Specify the location of the workshop
 # TODO: needs documenting a lot better
 venue: "Microsoft Teams"           # name of location
-address: "https://bit.ly/2022-02-17-minds"  # address of location
+address: "TBC" # https://bit.ly/2022-02-17-minds"  # address of location
 country: "GB"         # e.g. gb
 language: "EN"        # e.g. en
 latitude: "50.909698"    # latitude of location (Soton: 50.909698)
