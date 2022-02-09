@@ -80,16 +80,6 @@ lessons:
     date: 9 January 2022
     start-time: 8:30 am
 
-  - title: Building Programs with Python
-    gh-name: python-novice
-    type: episode
-    branch: gh-pages
-    date:
-      - 11 January 2022
-      - 12 January 2022
-    start-time:
-      - 10:00 am
-      - 10:00 am
 
 
 # Specify that things in the episodes collection should be output.
