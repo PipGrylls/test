@@ -509,9 +509,7 @@ In some collaborations, only some people have permission to **merge pull request
 > > $ git pull origin dev
 > > ~~~
 > > {: .language-bash}
-> 
-{: .solution}
-
+> {: .solution}
 {: .challenge}
 
 {% include links.md %}
